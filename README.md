@@ -1,5 +1,4 @@
 # Quick Start
-## miniconda
 1. Install requirements
 ```bash
 conda create -n tf2 python=3.7
@@ -53,3 +52,8 @@ Epoch 68/100
 Epoch 69/100
 59/59 [==============================] - 70s 1s/step - loss: 0.9005 - acc: 0.6460 - val_loss: 0.8584 - val_acc: 0.6668
 ```
+
+# TODO
+
+- [ ] fix model to get better accuracy
+- [ ] every dynasty images not balance
