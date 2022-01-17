@@ -25,7 +25,7 @@ python predict.py
 ```
 It'll output `predict.txt` to `時代不詳` folder.
 
-## Using different (applications)[https://www.tensorflow.org/api_docs/python/tf/keras/applications]
+## Using different [applications](https://www.tensorflow.org/api_docs/python/tf/keras/applications)
 ```
 # VGG19
 4:00-6:00
